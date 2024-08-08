@@ -111,6 +111,7 @@ main {
     text-align: center;
     display: block;
     font-size: 1rem;
+    max-width: auto;
 }
 
 .buy-btn:hover {
