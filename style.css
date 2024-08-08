@@ -105,9 +105,9 @@ a.btn {
     border-radius: 5px;
     cursor: pointer;
     text-align: center;
-    display: inline-block;
+    display: block;
     font-size: 1rem;
-    text-decoration: none !important; /* Force no underline */
+    text-decoration: none; /* Force no underline */
     width: auto; /* Ensure width auto-adjusts */
 }
 
