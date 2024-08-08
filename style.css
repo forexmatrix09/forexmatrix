@@ -96,7 +96,7 @@ main {
     color: #ffffff;
 }
 
-.btn {
+a.btn {
     background-color: #ff007f;
     color: #ffffff;
     border: none;
@@ -107,11 +107,11 @@ main {
     text-align: center;
     display: inline-block;
     font-size: 1rem;
-    text-decoration: none; /* Ensure no underline */
-    width: auto; /* Let the width adjust to the content */
+    text-decoration: none !important; /* Force no underline */
+    width: auto; /* Ensure width auto-adjusts */
 }
 
-.btn:hover {
+a.btn:hover {
     background-color: #cc0066;
 }
 
