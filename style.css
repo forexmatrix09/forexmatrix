@@ -110,7 +110,6 @@ main {
     cursor: pointer;
     text-align: center;
     display: block;
-    width: auto;
     font-size: 1rem;
 }
 
