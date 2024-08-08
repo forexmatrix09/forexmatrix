@@ -12,10 +12,6 @@ body {
     background-color: #f9f9f9;
 }
 
-a {
-    text-decoration: none; /* Ensure no underline */
-}
-
 main {
     flex: 1;
     position: relative;
